@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week08A_[25471]</string>
+    <string name="temporary">Temporary</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="nama_file">Nama File</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="exit">Exit</string>
+</resources>
